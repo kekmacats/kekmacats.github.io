@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+}
+
+.button {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.text {
+  position: absolute;
+  top: 1%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  
+  color: white;
+}
+.tube {
+  position: absolute;
+  top: 97%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  
+  color: white;
+}
+.ad {
+  position: absolute;
+  top: 79%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border-style: solid;
+  border-color: red;
+  height: 308px;
+}
