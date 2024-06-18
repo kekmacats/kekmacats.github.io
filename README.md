@@ -1,2 +1,2 @@
-THIS IS A REPLICA
-[![Open Website](button.png)](https://kekmacats.github.io)
+THIS IS A REPLICA__
+[![Open Website](screenshot.png)](https://kekmacats.github.io)
