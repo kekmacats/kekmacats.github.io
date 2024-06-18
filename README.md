@@ -1,4 +1,4 @@
-<h1>THIS IS A REPLICA</h1> <br />
+THIS IS A REPLICA <br />
 ↓ click here to open ↓ <br />
 (screenshot.png)](https://kekmacats.github.io) <br />
 When you click the button a goofy screaming bird will show up <br />
