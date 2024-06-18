@@ -1,1 +1,1 @@
-<span style="font-size:3em;">THIS IS A REPLICA</span>
+<h6>THIS IS A REPLICA<h6>
